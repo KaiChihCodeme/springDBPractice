@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+	<body>
+		<img src="https://smuat.megatime.com.tw/eas/images/logo.png">
+		<center><h3><a href="http://www.softmobile.com.tw/">SoftMobile</a></h3></center>
+		<br>
+		
+		<center><h1> Somebody submit a message! </h1></center>
+		
+		<br>
+		<br>
+		<hr>
+		
+		<div style="background-color: cornsilk; height: fit-content;">
+			<font size="4pt" color="gray"> ${messageBody} </font>
+		</div>    
+		  
+		<hr>
+		<br>
+		 
+		<div style="background-color:#3b2f44;"> 
+			<center><font size="1pt" color="white">This letter is sent automatically.  Please do not reply directly.</font></center>
+			<center><font size="1pt" color="white"><i>@Design by Kai.</i></font></center> 
+		</div>
+    </body> 
+</html>
